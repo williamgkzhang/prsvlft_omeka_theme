@@ -1,10 +1,5 @@
 <div class="main-header">
 	<div class="container">
-		<div class="topnav navbar-header">
-			<a class="navbar-toggle down-button" data-target=".slidedown" data-toggle="collapse">
-				<i class="fa fa-angle-down icon-current"></i>
-			</a>
-		</div>
 		<div class="logo pull-left">
 			<h1>
 				<a href="/">

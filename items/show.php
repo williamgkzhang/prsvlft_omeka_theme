@@ -30,11 +30,14 @@
 			<div class="row">
 				<div class="posts-block col-lg-9 col-md-9 col-sm-8 col-xs-12">
 					<div class="post-image">
+						<img src="http://fillmurray.com/400/100" class="center-block">
+						<? /* Doesn't work as intended
 						<?php if (get_theme_option('Item FileGallery') == 1): ?>
 						<div class="element-text"><?php echo item_image_gallery(); ?></div>
 						<?php else: ?>
 						<div class="element-text"><?php echo files_for_item(); ?></div>
 						<?php endif; ?>
+						*/ ?>
 					</div>
 					<h3 class="title">Summary</h3>
 					<div class="post-content top-pad">
